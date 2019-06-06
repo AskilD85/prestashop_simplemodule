@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>askild_module</name>
+    <displayName><![CDATA[Тестовый модуль]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Описание моего модуля.]]></description>
+    <author><![CDATA[Андрей Харитонов]]></author>
+    <tab><![CDATA[other]]></tab>
+	<confirmUninstall><![CDATA[Удалить? Уверенны?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
